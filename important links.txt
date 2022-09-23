@@ -1,1 +1,10 @@
-Pentao link
+install postgreSQL
+
+https://www.postgresql.org/download/
+
+
+Download pentaho
+
+https://sourceforge.net/projects/pentaho/
+
+
